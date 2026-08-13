@@ -65,7 +65,7 @@
   },
   {
     "name": "Encargos Financeiros a Transcorrer",
-    "tipo": "Patrimônio Líquido (Retificadora)",
+    "tipo": "Passivo (Retificadora)",
     "natureza": "Devedora",
     "exp": "Financiou os 80% restantes em 60 meses, com juros prefixados.",
     "ex": "Juros Prefixados"
